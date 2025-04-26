@@ -1,7 +1,9 @@
 **Depot Incident Analysis**
+
 Data-driven analysis of railway depot safety incidents to identify trends, measure harm, and support industry-wide safety improvements.
 
 **Overview**
+
 This project analyses workforce safety incidents in railway depots across Great Britain, using anonymised data from the Safety Management Intelligence System (SMIS). It was developed to support the Depot Working Group (DWG) and Rail Safety and Standards Board (RSSB) initiatives aimed at reducing depot-related harm.
 
 **Project Goals**
